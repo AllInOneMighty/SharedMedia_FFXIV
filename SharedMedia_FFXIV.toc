@@ -1,5 +1,5 @@
 ## Interface: 120001, 50503, 20505, 11508
-## Title: SharedMedia Additional Sounds
+## Title: SharedMedia: FFXIV
 ## Category: Media
 ## Category-deDE: Medien
 ## Category-esES: Medios
@@ -11,12 +11,11 @@
 ## Category-ruRU: Медиа
 ## Category-zhCN: 材质
 ## Category-zhTW: 材質
-## Notes: Inserts additionnal sounds into SharedMediaLib's storage.
+## Notes: Inserts FFXIV sounds into LibSharedMedia's storage.
 ## Version: @project-version@
-## Author: Original by Stassart, maintained by AllInOneMighty.
+## Author: AllInOneMighty.
 ## IconTexture: Interface\Icons\inv_11_0_arathordungeon_bell_color1
 ## X-Category: Audio & Video
-## X-Credits: Stassart
 ## OptionalDeps: LibSharedMedia-3.0
 
 #@no-lib-strip@
@@ -25,5 +24,5 @@ Libs\LibStub\LibStub.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 #@end-no-lib-strip@
 
-SharedMediaAdditionalSounds.lua
+SharedMedia_FFXIV.lua
 
