@@ -1,5 +1,14 @@
 local LSM = LibStub("LibSharedMedia-3.0", true)
 
+-- ----
+-- FONT
+-- ----
+LSM:Register(
+	"font",
+	"FFXIV: Augmented Neo-Eorzean",
+	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedNeo-Eorzean-Regular.ttf]]
+)
+
 -- -----
 -- SOUND
 -- -----
