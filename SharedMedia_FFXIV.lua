@@ -1,5 +1,6 @@
 local LSM = LibStub("LibSharedMedia-3.0", true)
-local koKR, ruRU, zhCN, zhTW, western = LSM.LOCALE_BIT_koKR, LSM.LOCALE_BIT_ruRU, LSM.LOCALE_BIT_zhCN, LSM.LOCALE_BIT_zhTW, LSM.LOCALE_BIT_western
+local koKR, ruRU, zhCN, zhTW, western =
+	LSM.LOCALE_BIT_koKR, LSM.LOCALE_BIT_ruRU, LSM.LOCALE_BIT_zhCN, LSM.LOCALE_BIT_zhTW, LSM.LOCALE_BIT_western
 
 -- ----
 -- FONT
@@ -8,7 +9,7 @@ LSM:Register(
 	"font",
 	"FFXIV: Augmented Neo-Eorzean",
 	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedNeo-Eorzean-Regular.ttf]],
-  koKR + ruRU + zhCN + zhTW + western
+	koKR + ruRU + zhCN + zhTW + western
 )
 
 -- -----
