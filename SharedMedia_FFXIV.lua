@@ -7,8 +7,32 @@ local koKR, ruRU, zhCN, zhTW, western =
 -- ----
 LSM:Register(
 	"font",
+	"FFXIV: Augmented Far Eastern Script",
+	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedFarEasternScript-Regular.ttf]],
+	koKR + ruRU + zhCN + zhTW + western
+)
+LSM:Register(
+	"font",
 	"FFXIV: Augmented Neo-Eorzean",
 	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedNeo-Eorzean-Regular.ttf]],
+	koKR + ruRU + zhCN + zhTW + western
+)
+LSM:Register(
+	"font",
+	"FFXIV: Augmented Norvrandt",
+	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedNorvrandt-Regular.ttf]],
+	koKR + ruRU + zhCN + zhTW + western
+)
+LSM:Register(
+	"font",
+	"FFXIV: Augmented Postulated Proto-Alphabet",
+	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedPostulatedProto-Alphabet-Regular.ttf]],
+	koKR + ruRU + zhCN + zhTW + western
+)
+LSM:Register(
+	"font",
+	"FFXIV: NeonSky Stencil",
+	[[Interface\Addons\SharedMedia_FFXIV\fonts\NeonSky-Stencil-Rg.ttf]],
 	koKR + ruRU + zhCN + zhTW + western
 )
 
