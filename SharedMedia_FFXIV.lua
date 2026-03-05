@@ -7,12 +7,6 @@ local koKR, ruRU, zhCN, zhTW, western =
 -- ----
 LSM:Register(
 	"font",
-	"FFXIV: Augmented Far Eastern Script",
-	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedFarEasternScript-Regular.ttf]],
-	koKR + ruRU + zhCN + zhTW + western
-)
-LSM:Register(
-	"font",
 	"FFXIV: Augmented Neo-Eorzean",
 	[[Interface\Addons\SharedMedia_FFXIV\fonts\AugmentedNeo-Eorzean-Regular.ttf]],
 	koKR + ruRU + zhCN + zhTW + western
