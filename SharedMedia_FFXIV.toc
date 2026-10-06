@@ -1,4 +1,4 @@
-## Interface: 120005, 50503, 20505, 11508
+## Interface: 120100, 50504, 20506, 11509
 ## Title: SharedMedia: FFXIV
 ## Category: Media
 ## Category-deDE: Medien
